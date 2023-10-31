@@ -26,7 +26,7 @@ blockquote {
 
 .content-section_theme_dark {
     color: #fff;
-    background-color: #131313;
+    background-color: #030303;
 }
 .content-section_theme_bright {
     color: #131313;
@@ -72,7 +72,7 @@ blockquote {
 }
 .cover__title {
     width: 100%;
-    color: #fff;
+    color: #ffff;
     font-family:  'EB Garamond', serif;
     font-weight: 400;
     font-size: 72px;
